@@ -35,6 +35,10 @@
 
 
 
+# Git
+
+>git remote add origin https://github.com/shulgaegor/gulp_settings-master.git
+
 
 
 
